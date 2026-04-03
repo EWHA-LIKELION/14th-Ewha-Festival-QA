@@ -1,3 +1,11 @@
+---
+name: "QA Report"
+about: "QA 테스트를 위한 템플릿"
+title: ""
+labels: ""
+assignees: ""
+---
+
 ## 📖 User Story
 
 - **As a** [사용자 유형: 예 — 로그인한 개인사업자]
