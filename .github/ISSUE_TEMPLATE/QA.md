@@ -5,7 +5,7 @@
 - **So that** [핵심 가치: 예 — 가능 대출액 즉시 확인]
 
 
-## ✅ Acceptance Criteria `REQUIRED — 미작성 시 Ready 이동 불가`
+## ✅ Acceptance Criteria
 
 - [ ]  **Given** 사전 조건을 입력하세요 (예: 로그인 상태에서)
 - [ ]  **When** 액션을 입력하세요 (예: 버튼을 클릭하면)
