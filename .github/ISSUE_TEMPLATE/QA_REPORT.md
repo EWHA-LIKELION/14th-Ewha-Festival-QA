@@ -65,13 +65,16 @@ assignees: ""
 1. 요청자는 AC와 QA Notes를 기반으로 검수하세요.
 2. 검수 Pass 시, Status 속성을 Done으로 변경하세요. 끝!
 3. 검수 Fail 시
-   1. Assignees에 태그된 개발자에게 프론트/백 중 어디 문제인지 물어보세요.
-   2. 프론트 문제일 경우: https://github.com/EWHA-LIKELION/14th-Ewha-Festival-Front/issues 에서 버그 리포트를 생성하세요.
-   3. 백 문제일 경우: https://github.com/EWHA-LIKELION/14th-Ewha-Festival-Back/issues 에서 버그 리포트를 생성하세요.
-   4. 버그 리포트 작성 중 모르겠는 항목은 모른다고 작성하세요.
-   5. 이 이슈에 버그 리포트를 서브 이슈로 연결하세요. "Add existing issue"
+   1. https://github.com/EWHA-LIKELION/14th-Ewha-Festival-Front/issues 에서 버그 리포트를 생성하세요.
+   2. 버그 리포트 작성 중 모르겠는 항목은 모른다고 작성하세요.
+   3. 이 이슈에 버그 리포트를 서브 이슈로 연결하세요. "Add existing issue"
       <p><img width="272" src="https://github.com/user-attachments/assets/c9d90ef7-1568-41dd-8808-502d962e2bae" /></p>
    6. Status 속성을 Fix로 변경하세요.
+
+# Ⅳ. Fix 단계
+1. 프론트엔드 개발자는 버그 리포트를 읽고, 해당 버그가 프론트/백 중 어디 문제인지 파악하세요.
+2. 프론트엔드 개발자는 프론트 문제일 경우 수정하시고, 백 문제일 경우 https://github.com/EWHA-LIKELION/14th-Ewha-Festival-Back/issues 에서 버그 리포트를 생성하세요.
+3. 백엔드 개발자는 버그 리포트를 읽고 수정하세요.
 
 # AC를 수정할 경우
 원본은 그대로 놔두고, 이 이슈에 코멘트를 추가하세요.
