@@ -7,10 +7,12 @@ assignees: ""
 ---
 
 # Ⅰ. User Story 단계
-1. User Story와 Acceptance Criteria를 작성하세요.
-2. 오른쪽 Assignees 속성에 요청자 본인을 추가하세요.
-3. Create 버튼을 클릭하면 Projects 속성에 뭐가 생길텐데, Status 속성은 User Story, Domain 속성은 해당 도메인을 선택하세요.
-4. 이 단계를 완료하면 Status 속성을 QA Notes로 변경하세요.
+1. 하나의 유저 플로우는 상태[View] → 행동[Action]→ 결과[Result] 단계로 나눌 수 있어요. 
+   각각의 단계에 대하여 GWT로 한 번 더 나누어 User Story와 Acceptance Criteria를 작성하세요.
+2. 이슈의 제목은 User Story의 So that 부분을 적으세요.
+3. 오른쪽 Assignees 속성에 요청자 본인을 추가하세요.
+4. Create 버튼을 클릭하면 Projects 속성에 뭐가 생길텐데, Status 속성은 User Story, Domain 속성은 해당 도메인을 선택하세요.
+5. 이 단계를 완료하면 Status 속성을 QA Notes로 변경하세요.
 
 ## 📖 User Story
 ### As a _사용자 유형
